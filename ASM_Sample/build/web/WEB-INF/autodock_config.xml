@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<!-- Verbose Level for user
+     0 : errors only
+     1 : errors + messages
+    10 : errors + every message -->
+<entry key="VerboseLevel">10</entry>
+
+<!-- Verbose Level for Log file
+     0 : errors only
+     1 : errors + messages
+    10 : errors + every message -->
+<entry key="VerboseLevelLog">10</entry>
+
+<entry key="LogFile">../webapps/autodock-portlet.log</entry>
+<entry key="TempDir">/tmp</entry>
+<entry key="MaximumWU">1000</entry>
+<entry key="MaximumVisualizeFiles">100</entry>
+<entry key="DeveloperId">10196</entry>
+
+ <!-- Specify the first 3 chars of workflow ID.
+    Eg: "122_20121026183313187_2012-10-26-183313" = "122"
+    and the userID of the developer, who exported the workflow
+ -->
+
+<entry key="AutodockVina">0</entry>
+
+ <!-- 
+PublicAutoDock423
+ -->
+<entry key="Autodock4">0</entry>
+
+ <!-- 
+PublicAutoDock423_noautogrid
+ -->
+<entry key="Autodock4noautogrid">0</entry>
+
+</properties>
+

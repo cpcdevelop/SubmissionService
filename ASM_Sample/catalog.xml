@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.shiwa-workflow.eu/documents/10753/45904/General+Proxy+acces" uri="src/conf/xml-resources/web-services/NewWebServiceFromWSDL/wsdl/www.shiwa-workflow.eu/documents/10753/45904/general_proxy_acces.wsdl"/>
+    <nextCatalog catalog="nbproject/private/cache/retriever/catalog.xml"/>
+    <system systemId="file:/home/akos/SZTAKI/gUSE/guse_SVN/branches/asm/tags/old.wsdl" uri="src/conf/xml-resources/web-services/ASMCredentialProvider/wsdl/old.wsdl"/>
+    <system systemId="file:/home/akos/SZTAKI/gUSE/guse_SVN/branches/asm/tags/General%20Proxy%20acces.wsdl" uri="src/conf/xml-resources/web-services/ASMCredentialProvider/wsdl/General%20Proxy%20acces.wsdl"/>
+    <system systemId="file:/home/akos/SZTAKI/gUSE/guse_SVN/branches/asm/tags/new.wsdl" uri="src/conf/xml-resources/web-services/CredentialProvider/wsdl/new.wsdl"/>
+    <system systemId="http://n55.hpcc.sztaki.hu:8080/wspgrade/CredentialProvider?xsd=1" uri="src/conf/xml-resources/web-services/CredentialProvider/wsdl/n55.hpcc.sztaki.hu_8080/wspgrade/CredentialProvider.xsd_1.xsd"/>
+</catalog>
